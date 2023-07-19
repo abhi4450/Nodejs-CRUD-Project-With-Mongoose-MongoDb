@@ -1,5 +1,4 @@
 # CRUD-Mongoose-Nodejs
-
 CRUD operation on the product resource, which is stored in MongoDB.
 RESTFUL routes created using Node.js and Express for product resources
 Functionality to filter products by category.
